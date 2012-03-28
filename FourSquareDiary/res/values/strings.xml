@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, FourSquareDiaryActivity!</string>
+    <string name="app_name">4Sq Diary</string>
+    <string name="login_button">Login to 4Sq</string>
+    <string name="getVenueHistory_button">Venue</string>
+    <string name="map_button">Map</string>
+    <string name="please_wait">Please Wait&#8230;</string>
+
+</resources>
